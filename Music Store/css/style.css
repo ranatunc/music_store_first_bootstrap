@@ -1,0 +1,29 @@
+.cizgi{
+
+    color : #E9ECEF;
+}
+.pill{
+    background-color: gray;
+    color: white;
+  
+}
+.card-img-top{
+    height: 350px;
+    padding: 50px;
+
+}
+.card-body{
+    margin-top: -10px;
+}
+
+.card-title{
+    font-size:x-large;
+    color: blueviolet;
+}
+a.nav-link{
+    color:white;
+}
+
+a.nav-link:hover{
+    color:grey;
+}
